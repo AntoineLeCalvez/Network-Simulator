@@ -1,0 +1,636 @@
+# depslib dependency file v1.0
+1425119551 source:c:\users\antoine\desktop\sdl\test_sdl\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103144162 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1424985749 c:\users\antoine\desktop\sdl\test_sdl\sdl_geometrie.h
+
+1424983889 source:c:\users\antoine\desktop\sdl\test_sdl\reseau.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1425038347 source:c:\users\antoine\desktop\sdl\test_sdl\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1426242269 source:c:\users\antoine\desktop\sdl\simulateur_reseau\main.c
+	"commun.h"
+	"geometrie.h"
+	<SDL/SDL_ttf.h>
+
+1425399612 c:\users\antoine\desktop\sdl\simulateur_reseau\sdl_geometrie.h
+
+1424983889 source:c:\users\antoine\desktop\sdl\simulateur_reseau\reseau.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1425421223 source:c:\users\antoine\desktop\sdl\simulateur_reseau\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425325897 source:c:\users\antoine\desktop\simulateur_reseau 3 switch\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1424985749 c:\users\antoine\desktop\simulateur_reseau 3 switch\sdl_geometrie.h
+
+1424983889 source:c:\users\antoine\desktop\simulateur_reseau 3 switch\reseau.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1425038347 source:c:\users\antoine\desktop\simulateur_reseau 3 switch\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1424983889 source:c:\users\antoine\desktop\simulateur_reseau 3 switch + clic\reseau.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1425038347 source:c:\users\antoine\desktop\simulateur_reseau 3 switch + clic\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1424985749 c:\users\antoine\desktop\simulateur_reseau 3 switch + clic\sdl_geometrie.h
+
+1425336750 source:c:\users\antoine\desktop\simulateur_reseau 3 switch + clic\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425562253 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+	"commun.h"
+
+1425399612 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic\sdl_geometrie.h
+
+1424983889 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic\reseau.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1425421223 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425498900 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic\commun.h
+
+1425486432 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic\commun.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+	"commun.h"
+
+1425584356 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier\commun.c
+	"commun.h"
+
+1425399612 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier\sdl_geometrie.h
+
+1425829200 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425421223 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425852662 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	"sdl_geometrie.h"
+	"commun.h"
+
+1425584356 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier + envoie lettre\commun.c
+	"commun.h"
+
+1425829200 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier + envoie lettre\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425399612 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier + envoie lettre\sdl_geometrie.h
+
+1425421223 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier + envoie lettre\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425856390 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic + sauvegarde fichier + envoie lettre\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	"sdl_geometrie.h"
+	"commun.h"
+
+1425584356 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini)\commun.c
+	"commun.h"
+
+1425829200 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini)\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425399612 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini)\sdl_geometrie.h
+
+1425939439 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini)\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	"sdl_geometrie.h"
+	"commun.h"
+
+1425421223 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini)\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1426166824 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) - taille\commun.c
+	"commun.h"
+
+1426166755 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) - taille\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425399612 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) - taille\sdl_geometrie.h
+
+1425421223 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) - taille\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1426166981 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) - taille\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	"sdl_geometrie.h"
+	"commun.h"
+
+1426170764 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) + plusieurs paquets\commun.c
+	"commun.h"
+
+1426169416 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) + plusieurs paquets\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1425399612 c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) + plusieurs paquets\sdl_geometrie.h
+
+1426170956 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) + plusieurs paquets\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	"sdl_geometrie.h"
+	"commun.h"
+
+1425421223 source:c:\users\antoine\desktop\sdl\simulateur_reseau 3 switch + clic(fini) + sauvegarde fichier(à finir) + envoie lettre(fini) + plusieurs paquets\sdl_geometrie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_geometrie.h"
+
+1426239345 source:c:\users\antoine\desktop\sdl\simulateur_reseau\commun.c
+	"commun.h"
+
+1426239344 c:\users\antoine\desktop\sdl\simulateur_reseau\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<SDL/SDL.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_image.h>
+
+1164282628 c:\users\antoine\desktop\sdl\simulateur_reseau\pngfuncs.h
+	<png.h>
+	<SDL/SDL.h>
+
+1426186581 source:c:\users\antoine\desktop\sdl\simulateur_reseau\pngfuncs.c
+	<stdlib.h>
+	"pngfuncs.h"
+	<pngconf.h>
+	<png.h>
+	<SDL/SDL.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+
+1164905232 source:c:\users\antoine\desktop\sdl\simulateur_reseau\savescreen.c
+	<stdlib.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"pngfuncs.h"
+
+1164282026 source:c:\users\antoine\desktop\sdl\simulateur_reseau\savesurf.c
+	<stdlib.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"pngfuncs.h"
+
+1426239152 source:c:\users\antoine\desktop\sdl\simulateur_reseau\geometrie.c
+	"geometrie.h"
+
+1426239152 c:\users\antoine\desktop\sdl\simulateur_reseau\geometrie.h
+	"commun.h"
+
+1376152951 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1426239345 source:c:\users\antoine\desktop\sdl\simulateur_reseau test sdl_ttf\commun.c
+	"commun.h"
+
+1426239344 c:\users\antoine\desktop\sdl\simulateur_reseau test sdl_ttf\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<SDL/SDL.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_image.h>
+
+1426239152 source:c:\users\antoine\desktop\sdl\simulateur_reseau test sdl_ttf\geometrie.c
+	"geometrie.h"
+
+1426239152 c:\users\antoine\desktop\sdl\simulateur_reseau test sdl_ttf\geometrie.h
+	"commun.h"
+
+1426259272 source:c:\users\antoine\desktop\sdl\simulateur_reseau test sdl_ttf\main.c
+	"commun.h"
+	"geometrie.h"
+	<SDL/SDL_ttf.h>
+
+1426239152 source:c:\users\antoine\desktop\sdl\simulateur_reseau deporter fonction\geometrie.c
+	"geometrie.h"
+
+1426239152 c:\users\antoine\desktop\sdl\simulateur_reseau deporter fonction\geometrie.h
+	"commun.h"
+
+1426603923 c:\users\antoine\desktop\sdl\simulateur_reseau deporter fonction\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<SDL/SDL.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_image.h>
+	"geometrie.h"
+
+1426603642 source:c:\users\antoine\desktop\sdl\simulateur_reseau deporter fonction\commun.c
+	"commun.h"
+
+1426604031 source:c:\users\antoine\desktop\sdl\simulateur_reseau deporter fonction\main.c
+	"commun.h"
+	"geometrie.h"
+	<SDL/SDL_ttf.h>
+
+1426711960 source:c:\users\antoine\desktop\sdl\simulateur_reseau tentative deporter fonction\commun.c
+	"commun.h"
+
+1426711961 c:\users\antoine\desktop\sdl\simulateur_reseau tentative deporter fonction\commun.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<SDL/SDL.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_image.h>
+	"geometrie.h"
+
+1426712037 c:\users\antoine\desktop\sdl\simulateur_reseau tentative deporter fonction\geometrie.h
+	"commun.h"
+
+1426712767 source:c:\users\antoine\desktop\sdl\simulateur_reseau tentative deporter fonction\geometrie.c
+	"geometrie.h"
+
+1427111774 source:c:\users\antoine\desktop\sdl\simulateur_reseau tentative deporter fonction\main.c
+	"commun.h"
+	"geometrie.h"
+	<SDL/SDL_ttf.h>
+
